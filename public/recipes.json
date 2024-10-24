@@ -1,0 +1,170 @@
+ [
+      {
+        "recipe_id": "001",
+        "recipe_name": "Grilled Chicken with Basil",
+        "image": "https://media.istockphoto.com/id/174914269/photo/grilled-chicken-breast-with-salad.jpg?s=2048x2048&w=is&k=20&c=lRDeBCdTKN49_0Lp9bbk4XF1VDAgDdYp6fblrixVCYk=",
+        "description": "A savory grilled chicken dish with fragrant basil and garlic, perfect for a healthy meal.",
+        "ingredients": [
+          "550 g chicken breast",
+          "120 ml soy sauce",
+          "200 g basil leaves",
+          "400 g mushrooms",
+          "3 cloves garlic",
+          "2 tbsp olive oil"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+      },
+      {
+        "recipe_id": "002",
+        "recipe_name": "Spaghetti Carbonara",
+        "image": "https://media.istockphoto.com/id/1216784612/photo/aglio-olio-spaghetti-with-sausage-and-raw-egg.jpg?s=2048x2048&w=is&k=20&c=AP48PwLzNGmPxZVFqQCnQaSycH_rsIl3zLAmu88lcqI=",
+        "description": "Creamy pasta made with eggs, pancetta, and Parmesan for a rich, satisfying meal.",
+        "ingredients": [
+          "400 g spaghetti",
+          "150 g pancetta",
+          "3 large eggs",
+          "100 g Parmesan cheese",
+          "2 cloves garlic",
+          "2 tbsp olive oil",
+          "Salt and pepper"
+        ],
+        "preparing_time": "20 min",
+        "calories": "450 calories"
+      },
+      {
+        "recipe_id": "003",
+        "recipe_name": "Vegetable Stir-Fry",
+        "image": "https://media.istockphoto.com/id/1413892184/photo/pork-and-vegetable-stir-fry.jpg?s=2048x2048&w=is&k=20&c=T22aP8MjQhH1JYv7dZC4MeiJ09-zW3wgeGNwPZlHoh4=",
+        "description": "A quick and colorful stir-fry with fresh vegetables and a savory sauce.",
+        "ingredients": [
+          "200 g broccoli",
+          "150 g carrots",
+          "100 g bell peppers",
+          "200 g tofu",
+          "50 ml soy sauce",
+          "2 tbsp sesame oil",
+          "1 tbsp ginger"
+        ],
+        "preparing_time": "25 min",
+        "calories": "280 calories"
+      },
+      {
+        "recipe_id": "004",
+        "recipe_name": "Beef Tacos",
+        "image": "https://plus.unsplash.com/premium_photo-1681406995032-c3ceeb24d7f9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Juicy seasoned beef in soft tortillas with fresh vegetables and cheese.",
+        "ingredients": [
+          "400 g ground beef",
+          "200 g cheddar cheese",
+          "8 small tortillas",
+          "150 g lettuce",
+          "100 g tomatoes",
+          "50 g sour cream",
+          "1 tsp chili powder"
+        ],
+        "preparing_time": "35 min",
+        "calories": "550 calories"
+      },
+      {
+        "recipe_id": "005",
+        "recipe_name": "Classic Caesar Salad",
+        "image": "https://media.istockphoto.com/id/1078254262/photo/bacon-caesar-salad.jpg?s=2048x2048&w=is&k=20&c=R0JcZVh4mG9RIarfpOKOt3NAvNXmKoVuuEundJSCZSI=",
+        "description": "A refreshing salad with crisp romaine, Parmesan, and creamy Caesar dressing.",
+        "ingredients": [
+          "200 g romaine lettuce",
+          "50 g Parmesan cheese",
+          "100 g croutons",
+          "100 ml Caesar dressing",
+          "1 tbsp lemon juice",
+          "2 tbsp olive oil"
+        ],
+        "preparing_time": "15 min",
+        "calories": "250 calories"
+      },
+      {
+        "recipe_id": "006",
+        "recipe_name": "Chocolate Chip Cookies",
+        "image": "https://media.istockphoto.com/id/154935118/photo/cookies.webp?a=1&b=1&s=612x612&w=0&k=20&c=5a_4B2xqarrXtQAy2I0xnW692xjwoZlfqxp5ffrklL8=",
+        "description": "Soft and chewy cookies loaded with gooey chocolate chips.",
+        "ingredients": [
+          "250 g flour",
+          "100 g butter",
+          "150 g sugar",
+          "100 g brown sugar",
+          "200 g chocolate chips",
+          "1 large egg",
+          "1 tsp vanilla extract"
+        ],
+        "preparing_time": "45 min",
+        "calories": "220 calories"
+      },
+      {
+        "recipe_id": "007",
+        "recipe_name": "Chicken Curry",
+        "image": "https://media.istockphoto.com/id/1633693696/photo/chicken-curry-in-frying-pan.webp?a=1&b=1&s=612x612&w=0&k=20&c=iX2CBMGNbUHxueLP9f_YP127OjiO5ppOJ3K05KC2JO8=",
+        "description": "A rich and spicy chicken curry made with fragrant spices and creamy coconut milk.",
+        "ingredients": [
+          "500 g chicken thighs",
+          "1 can coconut milk",
+          "2 tbsp curry powder",
+          "1 onion",
+          "2 garlic cloves",
+          "1 tbsp ginger",
+          "1 tbsp olive oil"
+        ],
+        "preparing_time": "40 min",
+        "calories": "460 calories"
+      },
+      {
+        "recipe_id": "008",
+        "recipe_name": "Margarita Pizza",
+        "image": "https://plus.unsplash.com/premium_photo-1725282495509-254989b91fed?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A simple and classic pizza with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+          "1 pizza dough",
+          "200 g mozzarella cheese",
+          "3 large tomatoes",
+          "20 g fresh basil leaves",
+          "2 tbsp olive oil",
+          "1 clove garlic"
+        ],
+        "preparing_time": "25 min",
+        "calories": "380 calories"
+      },
+      {
+        "recipe_id": "009",
+        "recipe_name": "Shrimp Scampi",
+        "image": "https://media.istockphoto.com/id/1147564249/photo/creamy-parmesan-orzo-with-shrimp-and-asparagus.webp?a=1&b=1&s=612x612&w=0&k=20&c=RnCbTyhRPUliFBBnl2-IacNQH2lHkKY6q-bSh1f-MVk=",
+        "description": "Succulent shrimp sautéed in garlic butter, served over a bed of pasta.",
+        "ingredients": [
+          "300 g shrimp",
+          "200 g linguine",
+          "3 garlic cloves",
+          "50 g butter",
+          "1 tbsp olive oil",
+          "50 ml white wine",
+          "1 lemon"
+        ],
+        "preparing_time": "20 min",
+        "calories": "400 calories"
+      },
+      {
+        "recipe_id": "010",
+        "recipe_name": "Avocado Toast",
+        "image": "https://media.istockphoto.com/id/1328561320/photo/vegetarian-dinner.webp?a=1&b=1&s=612x612&w=0&k=20&c=ueVRp0b1KBegTX9p43mp-9zfOu0J90WR9tvCXRZlMps=",
+        "description": "A simple yet nutritious avocado toast with a sprinkle of chili flakes and lemon.",
+        "ingredients": [
+          "1 ripe avocado",
+          "2 slices whole grain bread",
+          "1 tbsp olive oil",
+          "1/2 lemon",
+          "Chili flakes",
+          "Salt and pepper"
+        ],
+        "preparing_time": "10 min",
+        "calories": "280 calories"
+      }
+    ]
+
+  
