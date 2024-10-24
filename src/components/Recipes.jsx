@@ -1,8 +1,8 @@
 import { CiClock2 } from "react-icons/ci";
 import { AiOutlineFire } from "react-icons/ai";
 import { useEffect, useState } from 'react'
-
-function Recipes() {
+import PropTypes from "prop-types";
+function Recipes({handleWantToCook}) {
   const [recipes, setRecipes] = useState([])
   useEffect(() => {
     fetch('./recipes.json')
@@ -10,7 +10,7 @@ function Recipes() {
       .then(data => setRecipes(data))
   }, [])
   return (
-    <div className='w-3/5 grid  md:grid-cols-2 gap-3 lg:gap-5'>
+    <div className=' md:w-1/2 lg:w-3/5 grid grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-5 '>
       {recipes.map((recipe) => <div key={recipe.recipe_id} className="card bg-base-100 border-2">
         <figure className='px-2 pt-2 md:pt-5 md:px-5 '>
           <img
@@ -32,15 +32,17 @@ function Recipes() {
           <div className='flex gap-5 text-gray-600 my-6'>
             <div className="flex gap-1 items-center">
               <CiClock2 className="text-xl"/>
-              <p>{recipe.preparing_time}</p>
+              <p>{recipe.preparing_time} minutes</p>
             </div>
             <div className="flex gap-1 items-center">
               <AiOutlineFire className="text-xl"/>
-              <p>{recipe.calories}</p>
+              <p>{recipe.calories} Calories</p>
             </div>
           </div>
           <div className="card-actions">
-            <button className="btn rounded-full bg-primary-color text-lg font-medium">Want to Cook</button>
+            <button
+            onClick={()=> handleWantToCook(recipe)}
+            className="btn rounded-full bg-primary-color text-lg font-medium">Want to Cook</button>
           </div>
         </div>
       </div>)}
@@ -49,5 +51,8 @@ function Recipes() {
   )
 }
 
+Recipes.propTypes = {
+  handleWantToCook: PropTypes.func
+}
 
 export default Recipes

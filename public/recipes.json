@@ -12,8 +12,8 @@
           "3 cloves garlic",
           "2 tbsp olive oil"
         ],
-        "preparing_time": "30 min",
-        "calories": "320 calories"
+        "preparing_time": "30",
+        "calories": "320"
       },
       {
         "recipe_id": "002",
@@ -29,8 +29,8 @@
           "2 tbsp olive oil",
           "Salt and pepper"
         ],
-        "preparing_time": "20 min",
-        "calories": "450 calories"
+        "preparing_time": "20",
+        "calories": "450"
       },
       {
         "recipe_id": "003",
@@ -46,8 +46,8 @@
           "2 tbsp sesame oil",
           "1 tbsp ginger"
         ],
-        "preparing_time": "25 min",
-        "calories": "280 calories"
+        "preparing_time": "25",
+        "calories": "280"
       },
       {
         "recipe_id": "004",
@@ -63,8 +63,8 @@
           "50 g sour cream",
           "1 tsp chili powder"
         ],
-        "preparing_time": "35 min",
-        "calories": "550 calories"
+        "preparing_time": "35",
+        "calories": "550"
       },
       {
         "recipe_id": "005",
@@ -79,8 +79,8 @@
           "1 tbsp lemon juice",
           "2 tbsp olive oil"
         ],
-        "preparing_time": "15 min",
-        "calories": "250 calories"
+        "preparing_time": "15",
+        "calories": "250"
       },
       {
         "recipe_id": "006",
@@ -96,8 +96,8 @@
           "1 large egg",
           "1 tsp vanilla extract"
         ],
-        "preparing_time": "45 min",
-        "calories": "220 calories"
+        "preparing_time": "45",
+        "calories": "220"
       },
       {
         "recipe_id": "007",
@@ -113,8 +113,8 @@
           "1 tbsp ginger",
           "1 tbsp olive oil"
         ],
-        "preparing_time": "40 min",
-        "calories": "460 calories"
+        "preparing_time": "40",
+        "calories": "460"
       },
       {
         "recipe_id": "008",
@@ -129,8 +129,8 @@
           "2 tbsp olive oil",
           "1 clove garlic"
         ],
-        "preparing_time": "25 min",
-        "calories": "380 calories"
+        "preparing_time": "25",
+        "calories": "380"
       },
       {
         "recipe_id": "009",
@@ -146,8 +146,8 @@
           "50 ml white wine",
           "1 lemon"
         ],
-        "preparing_time": "20 min",
-        "calories": "400 calories"
+        "preparing_time": "20",
+        "calories": "400"
       },
       {
         "recipe_id": "010",
@@ -162,8 +162,8 @@
           "Chili flakes",
           "Salt and pepper"
         ],
-        "preparing_time": "10 min",
-        "calories": "280 calories"
+        "preparing_time": "10",
+        "calories": "280"
       }
     ]
 
